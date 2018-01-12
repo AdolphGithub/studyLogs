@@ -22,6 +22,7 @@ MD,在github的[流行](https://github.com/trending)程度,前端就占据了半
 [AR.js](https://github.com/jeromeetienne/AR.js) - AR不说你也懂
 [es6tutorial](https://github.com/ruanyf/es6tutorial) - ECMAScript6入门教程,软一峰所写
 [Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，有四个系列,JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+[autoprefixer](http://autoprefixer.github.io/) - 为你的css自动弄兼容,自动加前缀.
 #### 资源推荐
 [awesome](https://github.com/sindresorhus/awesome) - 这个系列厉害了,每天都更新一些流行的仓库,项目.如果某一天,俺的项目进去了.我就哈哈哈哈哈哈哈.如果要搜索某个单独语言的.例如php,awesome php.就可以搜索到了.
 [glod-miner](https://github.com/xitu/gold-miner) - 掘金翻译计划.这个也厉害,看中文的最佳去处,一般我没有搜索到中文文档会来此处查看.
