@@ -35,5 +35,7 @@
 - [tensorflow](https://github.com/tensorflow/tensorflow) 一个谷歌开源的人工只能系统
 - [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) - 哈哈哈,这个就是上面的那个中文文档.
 - [tesseract](https://github.com/tesseract-ocr/tesseract) - 一个能识别图片的东东,有这么一句话,开源的不靠谱,收费的不划算
+#### php
+- [phpbook](https://github.com/walu/phpbook) 一个php源码学习日志
 #### 最后
 先暂时写道这里吧,哪天在来补充一下
